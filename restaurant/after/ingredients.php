@@ -29,5 +29,5 @@
       meal—it becomes a journey into a world of pure, unadulterated
       taste.
     </p>
-  <?php include 'inc/footer.inc.php'; ?>
+<?php include 'inc/footer.inc.php'; ?>
   
